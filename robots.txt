@@ -1,0 +1,10 @@
+# Shared host for every frostney GitHub Pages project site.
+# Crawlers only honor this file, not /<repo>/robots.txt.
+# Add a Sitemap line when a project publishes
+# https://frostney.github.io/<repo>/sitemap.xml
+# Custom-domain sites (gocciascript.dev and the rest) do not belong here.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://frostney.github.io/pascal-mcp-sdk/sitemap.xml
