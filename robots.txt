@@ -8,3 +8,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://frostney.github.io/pascal-mcp-sdk/sitemap.xml
+Sitemap: https://frostney.github.io/gravelbyte/sitemap.xml
